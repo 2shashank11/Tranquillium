@@ -1,0 +1,89 @@
+.main-header h1{
+    text-align:center;
+
+}
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+.div1{
+    text-align: center;
+}
+
+body {
+    background-image: url("bg1.jpg");
+    opacity:1 ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1500px;
+}
+
+
+.heading{
+    color:blueviolet;
+    font-size: 300%;
+    margin-top: 120px;
+
+    
+}
+
+.div2 input{
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    
+    font-size: 16px;
+    background-color:plum;
+    
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 50px;
+    border-radius: 100px;
+    height: 50%;
+
+}
+.footerl span{
+    float: left;
+}
+
+
+
+.div1 h2{
+    color:blue;
+}
+.signin{
+    font-size: 200%;
+}
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background-color: hotpink;
+ }
+ .fheading{
+    font-style: normal;
+    font-size: 150%;
+    color: darkmagenta;
+ }
+ .btn2{
+    cursor: pointer;
+    
+    
+    border: 2px solid #ccc;
+    
+    font-size: 16px;
+    background-color:plum;
+    
+    background-position: 10px 10px; 
+    
+    
+    border-radius: 100px;
+    height: 50%;
+    
+    
+
+}
