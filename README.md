@@ -14,3 +14,5 @@ Some functionalities that the idea should include are-
 4) They should be able to view a graphical representation/calendar view of their mood throughout the month.
 
 5) A personal account on the website that takes them to their digital journal/diary.
+
+<Chicken wing chicken wing hot dog and madoli chicken n macaronni>
